@@ -10,7 +10,10 @@ You can play the game [here](#).
 For more details about the development process, check out our [final project blog article](#).
 
 **Authors:**
-- [Rechol Kibebe](www.linkedwww.linkedin.com/in/
+- [Rechol Kibebe](www.linkedin.com/in/
+rechol-kibebe-0b4330258)
+
+
 -Sandra warugongo(www.linkedin.com/in/sandrawarugongo)
 
 ## Installation
